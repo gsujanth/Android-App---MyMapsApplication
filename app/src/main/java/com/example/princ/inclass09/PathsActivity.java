@@ -1,8 +1,7 @@
 package com.example.princ.inclass09;
 
-/*Assignment# - InClass09
+/*
   Names : Sujanth Babu Guntupalli
-          Mounika Yendluri
 */
 
 import android.graphics.Color;
